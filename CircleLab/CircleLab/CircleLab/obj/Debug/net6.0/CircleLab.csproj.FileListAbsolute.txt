@@ -1,0 +1,15 @@
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.csproj.AssemblyReference.cache
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.AssemblyInfoInputs.cache
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.AssemblyInfo.cs
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.csproj.CoreCompileInputs.cache
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\bin\Debug\net6.0\CircleLab.exe
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\bin\Debug\net6.0\CircleLab.deps.json
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\bin\Debug\net6.0\CircleLab.runtimeconfig.json
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\bin\Debug\net6.0\CircleLab.dll
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\bin\Debug\net6.0\CircleLab.pdb
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.dll
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\refint\CircleLab.dll
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.pdb
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\CircleLab.genruntimeconfig.cache
+C:\Users\dcoffey1\GrandCircus\CircleLab\CircleLab\CircleLab\obj\Debug\net6.0\ref\CircleLab.dll
