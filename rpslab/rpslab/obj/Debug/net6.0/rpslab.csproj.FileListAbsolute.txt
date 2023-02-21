@@ -1,0 +1,15 @@
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.csproj.AssemblyReference.cache
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.AssemblyInfoInputs.cache
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.AssemblyInfo.cs
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.csproj.CoreCompileInputs.cache
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\bin\Debug\net6.0\rpslab.exe
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\bin\Debug\net6.0\rpslab.deps.json
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\bin\Debug\net6.0\rpslab.runtimeconfig.json
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\bin\Debug\net6.0\rpslab.dll
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\bin\Debug\net6.0\rpslab.pdb
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.dll
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\refint\rpslab.dll
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.pdb
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\rpslab.genruntimeconfig.cache
+C:\Users\dcoffey1\GrandCircus\rpslab\rpslab\obj\Debug\net6.0\ref\rpslab.dll
