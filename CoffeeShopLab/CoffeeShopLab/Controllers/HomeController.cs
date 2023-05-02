@@ -12,7 +12,7 @@ namespace CoffeeShopLab.Controllers
         }
 
         public IActionResult AddUser()
-        {
+        {          
             return View();
         }
 
