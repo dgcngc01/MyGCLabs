@@ -1,0 +1,14 @@
+﻿@model Deck
+
+
+<form asp-controller="Home" asp-action="Draw" method="post">
+<table>
+	<h1>Your Deck ID is: @Model.deck_id</h1>
+	<p>It is @Model.success.ToString().ToLower() that your call was a success and it is @Model.shuffled.ToString().ToLower() that the cards were shuffled. <p>
+	<p>Remaining Cards: @Model.remaining</p>
+</table>
+	
+	<input type="Submit" value="Draw Your Cards" class="btn btn-primary" Draw>
+
+</form>
+

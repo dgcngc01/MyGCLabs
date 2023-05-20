@@ -1,0 +1,18 @@
+﻿@model CoffeeShopLab.Models.UserProfile
+
+<div class="text-center">
+	<h1>Coffee Shop Registration Page</h1> <br />
+
+	<form asp-controller="Home" asp-action="HandleSubmit" method="post" role="form">
+		<label asp-for="FirstName">First Name: </label>
+		<input asp-for="FirstName" /> <br /><br />
+		<label asp-for="LastName">Last Name: </label>
+		<input asp-for="LastName" /><br /><br />
+		<label asp-for="EmailAddress">Email address: </label>
+		<input asp-for="EmailAddress" /><br /><br />
+		<label asp-for="Password">Password: </label>
+		<input asp-for="Password" />
+		<input type="submit" />
+
+	</form>*
+</div>
