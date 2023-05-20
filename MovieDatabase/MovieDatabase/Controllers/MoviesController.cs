@@ -24,8 +24,6 @@ namespace MovieDatabase.Controllers
         [HttpGet("All")]
         public ActionResult<List<Movie>> Get()
         {
-            int toSkip = rand.Next(1, Movie.Movies.Count);
-            var result = Movie.Movies.FindAll(movie => movie.Id == toSkip);
 
             try
             {
